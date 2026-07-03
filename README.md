@@ -41,6 +41,7 @@
 
 ### 1. 环境准备与依赖安装
 确保您的机器拥有 NVIDIA 显卡并已配置好 CUDA 环境，激活您的虚拟环境后执行以下命令安装核心依赖：
+```bash
 pip install -r requirements.txt
 python app.py
 ```bash
